@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Permana Aji Syahputra 👋</h1>
 
-<!--
-**Ajisyah8/Ajisyah8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧑‍💻 Frontend Developer | 🌍 Based in Tanjungpinang, Indonesia<br>
+  💙 Passionate about building responsive and beautiful web interfaces
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a dedicated **Frontend Developer** with solid experience in:
+- Creating clean, semantic, and maintainable code
+- Building **responsive** and **mobile-first** layouts
+- Styling with **Tailwind CSS** and creating **dynamic UIs** with **React.js**
+- Designing user interfaces with a focus on good **UX and visual design**
+- Exploring full-stack development — currently working with **Laravel 12**
+
+---
+
+### 🤝 Open for Collaboration
+
+I love working in teams and bringing ideas to life.  
+Whether you're building a startup, an open-source project, or just trying out something new — **let's build it together!**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajisyah8&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajisyah8&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+- 🌐 [Portfolio](https://ajisyah.vercel.app)
+- 📷 [Instagram](https://www.instagram.com/_ajisyah)
+- 💼 [LinkedIn](www.linkedin.com/in/permana-aji-syahputra-698257274)
+- 📧 Email: ajeajeaje08@gmail.com
+
+---
+
+_Thanks for visiting my profile!_ 🚀
