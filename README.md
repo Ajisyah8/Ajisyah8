@@ -8,7 +8,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ajisyah8&label=Profile%20views&color=0f172a&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Ajisyah8?label=Followers&style=flat" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Ajisyah8?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars" />
+  <img src="https://img.shields.io/github/repos/Ajisyah8?label=Public%20Repos&style=flat" alt="public repos" />
 </p>
 
 ## About Me
@@ -60,20 +60,17 @@ I care about:
 
 ## GitHub Overview
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ajisyah8&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajisyah8&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="left">
-  <img height="160" src="https://streak-stats.demolab.com?user=Ajisyah8&theme=transparent&hide_border=true" />
-</p>
+- GitHub Profile: [github.com/Ajisyah8](https://github.com/Ajisyah8)
+- Portfolio Repository: [github.com/Ajisyah8/myportofolio](https://github.com/Ajisyah8/myportofolio)
+- Repositories: [github.com/Ajisyah8?tab=repositories](https://github.com/Ajisyah8?tab=repositories)
+- Contributions: [github.com/Ajisyah8](https://github.com/Ajisyah8)
+- Latest Activity: [github.com/Ajisyah8?tab=overview&from=2026-05-01&to=2026-05-31](https://github.com/Ajisyah8?tab=overview&from=2026-05-01&to=2026-05-31)
 
 ## GitHub Activity
 
-- Contributions, commit streak, and language usage can be seen directly from the cards above.
-- Repository activity, latest pushes, branches, and commit history are best reviewed from each repo page on GitHub.
-- If you want contribution heatmaps or contribution snakes, that requires an extra GitHub Actions workflow.
+- Latest pushes and commit history are available in each repository's `Commits` tab.
+- Branches, pull requests, and release history are visible directly in the repository navigation on GitHub.
+- Contribution heatmap is visible on your profile page without relying on third-party image generators.
 
 ## Experience Highlights
 
@@ -96,6 +93,9 @@ I care about:
 ## Connect With Me
 
 <p align="left">
+  <a href="https://ajisyah.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://github.com/Ajisyah8" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
