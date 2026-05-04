@@ -5,6 +5,12 @@
   I build scalable digital products across frontend, backend, ERP workflows, and API integrations with a strong focus on practical product execution.
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Ajisyah8&label=Profile%20views&color=0f172a&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Ajisyah8?label=Followers&style=flat" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Ajisyah8?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars" />
+</p>
+
 ## About Me
 
 I work across product development, full-stack implementation, and system improvement. My main focus is building interfaces and features that are readable, reliable, and aligned with real business needs.
@@ -51,6 +57,23 @@ I care about:
 
 - **Indah Puri Golf Resort**  
   Hospitality and golf booking website for resort packages, reservations, promotions, and visitor contact flows.
+
+## GitHub Overview
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ajisyah8&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajisyah8&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="left">
+  <img height="160" src="https://streak-stats.demolab.com?user=Ajisyah8&theme=transparent&hide_border=true" />
+</p>
+
+## GitHub Activity
+
+- Contributions, commit streak, and language usage can be seen directly from the cards above.
+- Repository activity, latest pushes, branches, and commit history are best reviewed from each repo page on GitHub.
+- If you want contribution heatmaps or contribution snakes, that requires an extra GitHub Actions workflow.
 
 ## Experience Highlights
 
