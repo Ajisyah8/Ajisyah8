@@ -60,6 +60,18 @@ I care about:
 
 ## GitHub Overview
 
+- Trophy-style overview:
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ajisyah8&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="github trophies" />
+</p>
+
+- Recent contribution activity:
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajisyah8&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity" alt="github activity graph" />
+</p>
+
 - GitHub Profile: [github.com/Ajisyah8](https://github.com/Ajisyah8)
 - Portfolio Repository: [github.com/Ajisyah8/myportofolio](https://github.com/Ajisyah8/myportofolio)
 - Repositories: [github.com/Ajisyah8?tab=repositories](https://github.com/Ajisyah8?tab=repositories)
@@ -70,7 +82,7 @@ I care about:
 
 - Latest pushes and commit history are available in each repository's `Commits` tab.
 - Branches, pull requests, and release history are visible directly in the repository navigation on GitHub.
-- Contribution heatmap is visible on your profile page without relying on third-party image generators.
+- If a visual card fails to load temporarily, the direct GitHub links above remain the most reliable source.
 
 ## Experience Highlights
 
@@ -93,9 +105,6 @@ I care about:
 ## Connect With Me
 
 <p align="left">
-  <a href="https://ajisyah.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://github.com/Ajisyah8" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
@@ -107,6 +116,3 @@ I care about:
   </a>
 </p>
 
----
-
-This repository contains my portfolio website built to present selected work, experience, and technical focus in a clear and practical way.
