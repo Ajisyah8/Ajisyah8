@@ -1,118 +1,140 @@
-# Hi there, I'm Permana Aji Syahputra
+# Hi, I'm Permana Aji Syahputra
+
+<h3>Software Engineer • Full Stack Developer • Indonesia</h3>
 
 <p>
-  <strong>Product Engineer</strong> based in Tanjungpinang, Indonesia.<br />
-  I build scalable digital products across frontend, backend, ERP workflows, and API integrations with a strong focus on practical product execution.
+I build scalable <strong>software solutions</strong> with expertise in frontend engineering, backend development, ERP systems, and API integrations. I enjoy creating maintainable, high-performance applications that solve real business problems.
 </p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Ajisyah8&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Ajisyah8?style=flat-square" />
+<img src="https://img.shields.io/github/stars/Ajisyah8?affiliations=OWNER&style=flat-square" />
+</p>
+
+---
+
+<h2>
+<img src="https://api.iconify.design/lucide/user-round.svg?color=2563eb" width="22" align="center"/>
+ About Me
+</h2>
+
+* Software Engineer at **PT Arus Digital Sinergi**
+* Based in **Tanjungpinang, Indonesia**
+* Building modern software using React, Next.js, Remix, Laravel, and Node.js
+* Experienced with ERP, CRM, HubSpot, Odoo, and third-party API integrations
+* Passionate about software architecture, clean code, and scalable systems
+
+---
+
+<h2>
+<img src="https://api.iconify.design/lucide/code-xml.svg?color=2563eb" width="22" align="center"/>
+ Tech Stack
+</h2>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Ajisyah8&label=Profile%20views&color=0f172a&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Ajisyah8?label=Followers&style=flat" alt="followers" />
-  <img src="https://img.shields.io/github/repos/Ajisyah8?label=Public%20Repos&style=flat" alt="public repos" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,remix,vite,tailwind,ts,js,nodejs,express,laravel,mysql,postgres,docker,git,github,vscode&perline=8"/>
+
 </p>
 
-## About Me
+---
 
-I work across product development, full-stack implementation, and system improvement. My main focus is building interfaces and features that are readable, reliable, and aligned with real business needs.
+<h2>
+<img src="https://api.iconify.design/lucide/folder-kanban.svg?color=2563eb" width="22" align="center"/>
+ Featured Projects
+</h2>
 
-I care about:
-- scalable web applications
-- clean and maintainable code
-- thoughtful product decisions
-- performance and usability
-- practical integrations that improve operations
+### Mortgage Titan
 
-## Tech Stack
+Mortgage advisory platform for Singapore featuring mortgage comparison, refinancing reminders, financial calculators, and lead generation.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white" />
+### Yusnadi Mengajar
+
+Learning Management System with role-based access, structured course management, and scalable educational workflows.
+
+### QRPay
+
+Travel and tourism booking platform supporting multi-service reservations, online transactions, and customer management.
+
+### Indah Puri Golf Resort
+
+Hospitality platform for resort reservations, golf bookings, promotions, and customer inquiries.
+
+---
+
+<h2>
+<img src="https://api.iconify.design/lucide/chart-column.svg?color=2563eb" width="22" align="center"/>
+ GitHub Analytics
+</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ajisyah8&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajisyah8&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-## Selected Projects
+<p align="center">
 
-- **Mortgage Titan**  
-  Singapore mortgage advisory platform with rate comparison, calculators, refinancing reminders, and lead capture flows.
+<img src="https://streak-stats.demolab.com?user=Ajisyah8&theme=github-dark&hide_border=true"/>
 
-- **Yusnadi Mengajar**  
-  Digital learning platform with structured program pages, role-based access, and scalable class workflows.
-
-- **QRPay**  
-  Multi-service online booking platform for travel and tourism products with wide transaction coverage.
-
-- **Indah Puri Golf Resort**  
-  Hospitality and golf booking website for resort packages, reservations, promotions, and visitor contact flows.
-
-## GitHub Overview
-
-- Trophy-style overview:
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajisyah8&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="github trophies" />
 </p>
 
-- Recent contribution activity:
+---
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajisyah8&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity" alt="github activity graph" />
+<h2>
+<img src="https://api.iconify.design/lucide/activity.svg?color=2563eb" width="22" align="center"/>
+ Contribution Activity
+</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajisyah8&theme=github-compact&hide_border=true"/>
+
 </p>
 
-- GitHub Profile: [github.com/Ajisyah8](https://github.com/Ajisyah8)
-- Portfolio Repository: [github.com/Ajisyah8/myportofolio](https://github.com/Ajisyah8/myportofolio)
-- Repositories: [github.com/Ajisyah8?tab=repositories](https://github.com/Ajisyah8?tab=repositories)
-- Contributions: [github.com/Ajisyah8](https://github.com/Ajisyah8)
-- Latest Activity: [github.com/Ajisyah8?tab=overview&from=2026-05-01&to=2026-05-31](https://github.com/Ajisyah8?tab=overview&from=2026-05-01&to=2026-05-31)
+---
 
-## GitHub Activity
+<h2>
+<img src="https://api.iconify.design/lucide/briefcase-business.svg?color=2563eb" width="22" align="center"/>
+ What I Build
+</h2>
 
-- Latest pushes and commit history are available in each repository's `Commits` tab.
-- Branches, pull requests, and release history are visible directly in the repository navigation on GitHub.
-- If a visual card fails to load temporarily, the direct GitHub links above remain the most reliable source.
+* Full Stack Web Applications
+* Enterprise Software
+* ERP Solutions
+* SaaS Platforms
+* REST API Development
+* Third-party API Integration
+* Admin Dashboards
+* Business Automation
+* Performance Optimization
 
-## Experience Highlights
+---
 
-- **Product Engineer at PT. Arus Digital Sinergi**  
-  Developing and maintaining digital products, improving code quality, and shipping features aligned with product needs.
+<h2>
+<img src="https://api.iconify.design/lucide/mail.svg?color=2563eb" width="22" align="center"/>
+ Connect With Me
+</h2>
 
-- **Technical Mentor - Web Development at Infinite Learning**  
-  Mentored web development learners across frontend and backend fundamentals and supported large-cohort learning progress.
+<p>
 
-- **Frontend Regular Course Instructor**  
-  Delivered project-based frontend learning from concept to deployment.
+<a href="https://github.com/Ajisyah8">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-## Current Focus
+<a href="https://www.linkedin.com/in/permana-aji-syahputra-698257274/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-- building product-focused web applications
-- improving maintainability and performance
-- shipping better frontend and full-stack experiences
-- exploring stronger backend workflows with Laravel and integrations
+<a href="mailto:ajeajeaje08@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-## Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Ajisyah8" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/permana-aji-syahputra-698257274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ajeajeaje08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
+---
+
+> Building reliable software through clean architecture, practical engineering, and continuous improvement.
