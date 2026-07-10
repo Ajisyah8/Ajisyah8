@@ -325,13 +325,21 @@ React • Laravel
 
 <div align="center">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=Ajisyah8&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Ajisyah8">
 
 <img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajisyah8&layout=compact&theme=transparent&hide_border=true"/>
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Ajisyah8&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+</a>
+
+<a href="https://github.com/Ajisyah8">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajisyah8&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+
+</a>
 
 </div>
 
@@ -354,17 +362,6 @@ src="https://streak-stats.demolab.com?user=Ajisyah8&theme=transparent&hide_borde
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=Ajisyah8&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-## GitHub Trophy
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Ajisyah8&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
