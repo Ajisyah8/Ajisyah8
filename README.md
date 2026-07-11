@@ -341,41 +341,11 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Ajisyah8&the
 
 ---
 
-## Profile Summary
+## GitHub Metrics
 
 <div align="center">
 
-<img
-width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajisyah8&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajisyah8&theme=github_dark"/>
-
-<img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajisyah8&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajisyah8&theme=github_dark"/>
-
-<img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajisyah8&theme=github_dark&utcOffset=7"/>
+<img src="./github-metrics.svg" alt="GitHub Metrics"/>
 
 </div>
 
