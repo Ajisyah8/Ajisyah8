@@ -343,38 +343,45 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Ajisyah8&the
 
 ## Profile Summary
 
-<div align="center">
+<table>
+<tr>
+
+<td width="60%" valign="top">
 
 <img
+width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajisyah8&theme=github_dark"/>
 
-</div>
+</td>
 
-<br>
-
-<div align="center">
+<td width="40%" valign="top">
 
 <img
+width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajisyah8&theme=github_dark"/>
 
+<br><br>
+
 <img
+width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajisyah8&theme=github_dark"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img
+width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajisyah8&theme=github_dark"/>
 
+<br><br>
+
 <img
+width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajisyah8&theme=github_dark&utcOffset=7"/>
 
-</div>
+</td>
 
----
+</tr>
+</table>
 
 ---
 
