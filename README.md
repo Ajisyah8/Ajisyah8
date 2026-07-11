@@ -16,8 +16,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause
 
 <img src="https://img.shields.io/github/stars/Ajisyah8?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
-
 </div>
 
 ---
